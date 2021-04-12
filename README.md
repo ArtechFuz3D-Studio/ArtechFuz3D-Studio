@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/clickonrefresh/.assets/blob/main/Copy%20of%20clickonrefresh(7).mp4
+![](https://user-images.githubusercontent.com/72121107/114459305-a2214100-9be0-11eb-973c-86c7f4aee3f7.png)
+
