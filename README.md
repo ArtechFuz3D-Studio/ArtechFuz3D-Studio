@@ -1,4 +1,6 @@
-### Hi there 👋
+![Copy of clickonrefresh(8)](https://user-images.githubusercontent.com/72121107/114459748-3a1f2a80-9be1-11eb-95ec-b0b3838ccff4.png)
+
+## Hi there 👋
 
 <!--
 **clickonrefresh/clickonrefresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://user-images.githubusercontent.com/72121107/114459305-a2214100-9be0-11eb-973c-86c7f4aee3f7.png)
+
 
