@@ -1,5 +1,5 @@
 ![Copy of clickonrefresh(8)](https://user-images.githubusercontent.com/72121107/114459748-3a1f2a80-9be1-11eb-95ec-b0b3838ccff4.png)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/clickonrefresh/clickondeluxe/docker-image.yml?style=plastic)
+
 ## Hi there <img src="https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bluesteel.gif" width="48px" alt="hi">
 
 Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a), a Junior self taught developer and open sourcerer.
