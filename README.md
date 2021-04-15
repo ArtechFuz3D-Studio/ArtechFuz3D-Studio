@@ -2,7 +2,8 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bluesteel.gif" width="48px" alt="hi">
 
-Im ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a), a Full Stack Developer, Linux Nut and Open Source Conjurer.
+Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a), a Junior self taught developer and open sourcerer.
+I Enjoy using github for building projects and learning with.
 
 
 
