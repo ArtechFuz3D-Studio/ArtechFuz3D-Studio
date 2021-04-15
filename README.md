@@ -3,8 +3,11 @@
 ## Hi there <img src="https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bluesteel.gif" width="48px" alt="hi">
 
 Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a), a Junior self taught developer and open sourcerer.
+
 I enjoy using github for building my own projects and studying, I also use it for work projects.
 
+![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
 
 
 
