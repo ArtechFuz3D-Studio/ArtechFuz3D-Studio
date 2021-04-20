@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 
 
-![Visit My Portfolio Website: clickonrefresh.onthewifi.com](https://clickonrefresh.onthewifi.com)
+[Visit My Portfolio Website: clickonrefresh.onthewifi.com](https://clickonrefresh.onthewifi.com)
