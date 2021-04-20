@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 
 
-![![](https://img.shields.io/badge/ClickonRefresh-informational?style=flat&logo=clickonrefresh&logoColor=white&color=2bbc8a)](https://clickonrefresh.onthewifi.com)
+![Visit My Portfolio Website: clickonrefresh.onthewifi.com](https://clickonrefresh.onthewifi.com)
