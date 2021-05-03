@@ -2,29 +2,28 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bluesteel.gif" width="48px" alt="hi">
 
-Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a), a Junior self taught developer and open sourcerer.
+Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a){: .btn}
 
-I enjoy using github for building my own projects and studying, I also use it for work projects.
+## Ask me about:
+  - Custom Odoo Deployments
+  - Docker
+  - Linux
+  - Virtualisation
+  - Github basics
 
-![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
+## What Im Learning:
+  - Python
+  - Full Stack Development
+  - Dev-Ops
+  - NodeJs
+  - Data Structures
+  - Web Application Development
+  - Cloud
+  - Github
+  - CL/CI
 
 
 
-<!--
-**clickonrefresh/clickonrefresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
@@ -44,6 +43,23 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Odoo-ce-informational?style=flat&logo=odoo&logoColor=white&color=2bbc8a)
+
+
+
+![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 
 
 
