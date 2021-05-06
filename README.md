@@ -27,8 +27,9 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - [Crispy-Waffles](https://github.com/organizations/Crispy-Waffles)
   - [Clickon Tutorials](https://github.com/Clickon-Tutorials)
 
-
-
+## Pages:
+  - [clickonrefresh.github.io](https://clickonrefresh.github.io)
+  - [clickon-tutorials.gihub.io](https://clickon-tutorials.github.io/Clickon-Tutorials/)
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
