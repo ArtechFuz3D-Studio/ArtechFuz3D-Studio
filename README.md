@@ -52,7 +52,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 
 ![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
 
-![Twitter Follow Me!](twitter.com/clickonrefresh)
+![:twitter:](twitter.com/clickonrefresh)
 ![Twitter Followers](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
 
 
