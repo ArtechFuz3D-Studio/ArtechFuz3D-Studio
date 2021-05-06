@@ -52,9 +52,8 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 
 ![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
 
-![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
+![Twitter](https://twitter.com/clickonrefresh)
 
-(twitter.com/clickonrefresh)
 ![Twitter Followers](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
 
 
