@@ -79,7 +79,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7b29999f8c6f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
-<!-- {% seo %} -->
+<!-- {% seo %}
 
 [Create cool svg content for your Github readme](https://iconmonstr.com)
 
