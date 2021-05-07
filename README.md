@@ -31,6 +31,13 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - [clickonrefresh.github.io](https://clickonrefresh.github.io)
   - [clickon-tutorials.gihub.io](https://clickon-tutorials.github.io/Clickon-Tutorials/)
 
+
+## My Projects:
+  - [clickondoo-repo](https://github.com/clickonrefresh/clickonodoo)
+  - [clickonodoo-pages](https://clickonrefresh.github.io/clickonodoo)
+  
+  - [clickondeluxe-repo](https://github.com/clickonrefresh/clickondeluxe)
+  - [clickondeluxe-pages](https://clickonrefresh.github.io/clickondeluxe)
 <!-- TODO: Make technologies links takes you to repositories -->
 
 
