@@ -4,6 +4,8 @@
 
 Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-informational?style=plastic&logo=clickonrefresh&logoColor=white&color=2bbc8a)
 
+Find me on [Linkedin](https://linkedin.com/in/clickonrefresh)
+
 ## Ask me about:
   - Custom Odoo Deployments
   - Docker
