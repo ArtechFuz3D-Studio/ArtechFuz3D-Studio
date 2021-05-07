@@ -60,7 +60,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Odoo-ce-informational?style=flat&logo=odoo&logoColor=white&color=2bbc8a)
-
+![](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
@@ -72,6 +72,6 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 
 [Make remote access, managed DNS and SSL encrytpion easy with a Noip.com account, free and paid options](https://www.noip.com?fpr=clickonrefresh)
 
-
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7b29999f8c6f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
