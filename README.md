@@ -65,12 +65,18 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Odoo-ce-informational?style=flat&logo=odoo&logoColor=white&color=2bbc8a)
 
+_____________________________________________________________________________________________________
+
+_____________________________________________________________________________________________________
 
 ![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
 
 [Twitter](https://twitter.com/clickonrefresh)
 
 ![Twitter Followers](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
+
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
 
 ### Make remote access, managed DNS and SSL encryption easy with a Noip.com account, free and paid options
 [![Make remote access, managed DNS and SSL encryption easy with a Noip.com account, free and paid options](https://user-images.githubusercontent.com/72121107/117400939-e9f76780-af03-11eb-9965-7aebc496173c.png)](https://www.noip.com/sign-up?hostname=&domain=hopto.org&fpr=clickonrefresh&fp_sid=signup)
@@ -79,9 +85,15 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7b29999f8c6f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
+
+
 <!-- {% seo %}
 
 [Create cool svg content for your Github readme](https://iconmonstr.com)
 
 
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
 [![daftpunktocat-thomas](https://user-images.githubusercontent.com/72121107/117508133-5e73ea00-af88-11eb-97ef-7a0c59b84305.gif)](https://youtu.be/L93-7vRfxNs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PwILkY9gRrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
