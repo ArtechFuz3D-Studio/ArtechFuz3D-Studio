@@ -81,7 +81,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 
 <!-- {% seo %} -->
 
-[Create cool svg and other embedded logos for your Github readmehttps://iconmonstr.com/
+[Create cool svg content for your Github readme](https://iconmonstr.com)
 
 
 [![daftpunktocat-thomas](https://user-images.githubusercontent.com/72121107/117508133-5e73ea00-af88-11eb-97ef-7a0c59b84305.gif)](https://youtu.be/L93-7vRfxNs)
