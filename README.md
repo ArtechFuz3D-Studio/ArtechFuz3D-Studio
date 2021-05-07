@@ -12,7 +12,9 @@ Find me on [Linkedin](https://linkedin.com/in/clickonrefresh)
   - Linux
   - Virtualisation
   - Github basics
+
 <!-- TODO: Make links  -->
+
 ## What Im Learning:
   - Python
   - Full Stack Development
