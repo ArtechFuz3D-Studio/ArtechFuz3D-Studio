@@ -28,7 +28,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - [Clickon Tutorials](https://github.com/Clickon-Tutorials)
 
 ## Pages:
-  - [clickonrefresh.github.io](https://clickonrefresh.github.io)
+  - [clickonrefresh.github.io](https://clickonrefresh.github.io/clickonrefresh)
   - [clickon-tutorials.gihub.io](https://clickon-tutorials.github.io/Clickon-Tutorials/)
 
 
@@ -60,12 +60,11 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Odoo-ce-informational?style=flat&logo=odoo&logoColor=white&color=2bbc8a)
-![](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
 
-![Twitter](https://twitter.com/clickonrefresh)
+[Twitter](https://twitter.com/clickonrefresh)
 
 ![Twitter Followers](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
 
