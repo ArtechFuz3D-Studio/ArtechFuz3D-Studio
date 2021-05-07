@@ -10,7 +10,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
   - Linux
   - Virtualisation
   - Github basics
-
+<!-- TODO: Make links  -->
 ## What Im Learning:
   - Python
   - Full Stack Development
@@ -42,6 +42,8 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 ## My Docker Repositories
   - [countdocula](https://hub.docker.com/u/countdocula)
   - [click0nrefresh](https://hub.docker.com/u/click0nrefresh)
+
+
 <!-- TODO: Make technologies links takes you to repositories -->
 
 
