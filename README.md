@@ -84,4 +84,7 @@ Im Neill aka ![clickonrefresh](https://img.shields.io/badge/Clickonrefresh-infor
 [Create cool svg content for your Github readme](https://iconmonstr.com)
 
 
-[![daftpunktocat-thomas](https://user-images.githubusercontent.com/72121107/117508133-5e73ea00-af88-11eb-97ef-7a0c59b84305.gif)](https://youtu.be/L93-7vRfxNs)
+[![daftpunktocat-thomas](https://user-images.githubusercontent.com/72121107/117508133-5e73ea00-af88-11eb-97ef-7a0c59b84305.gif)]<iframe width="560" height="315" src="https://www.youtube.com/embed/L93-7vRfxNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+https://youtu.be/L93-7vRfxNs
