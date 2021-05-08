@@ -8,21 +8,6 @@
 
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
-
-### [Help Stop Climate Change by adding this code snippet to your yml files](https://github.com/marketplace/actions/continuous-reforestation)
-
-```
-- name: continuous-reforestation
-  uses: protontypes/continuous-reforestation@0.0.3
-```
-
-
-<!-- {% seo %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B4CcX720DW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
 ## Ask me about:
   - Custom Odoo Deployments
   - Docker
