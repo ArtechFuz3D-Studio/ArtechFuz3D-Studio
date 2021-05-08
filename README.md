@@ -9,7 +9,7 @@
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
 
-### [Help Against Climate Change by adding this code snippet to your yml files](https://github.com/marketplace/actions/continuous-reforestation)
+### [Help Stop Climate Change by adding this code snippet to your yml files](https://github.com/marketplace/actions/continuous-reforestation)
 
 ```
 - name: continuous-reforestation
@@ -115,7 +115,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
-[Help Against Climate Change by adding this code snippet to your yml files](https://github.com/marketplace/actions/continuous-reforestation)
+[Help Stop Climate Change by adding this code snippet to your yml files](https://github.com/marketplace/actions/continuous-reforestation)
 
 ```
 - name: continuous-reforestation
