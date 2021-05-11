@@ -8,19 +8,17 @@
 
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
-## Ask me about:
+## 😄 Ask me about:
   - Custom Odoo Deployments
   - Docker
   - Linux
   - Virtualisation
   - Github basics
+  - Documentation Basics
 
-<!-- TODO: Make links  -->
-
-## What Im Learning:
+## 🌱 Im Currently Learning:
   - Python
-  - Full Stack Development
-  - Dev-Ops
+  - Automation
   - NodeJs
   - Data Structures
   - Web Application Development
@@ -28,6 +26,8 @@ ________________________________________________________________________________
   - Github
   - CL/CI
 
+
+⚡
 ## Organizations:
   - [Phylogeny Explorer Project](https://github.com/phylogeny-explorer)
   - [Crispy-Waffles](https://github.com/organizations/Crispy-Waffles)
