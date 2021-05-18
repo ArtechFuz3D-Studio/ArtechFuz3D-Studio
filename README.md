@@ -13,7 +13,8 @@ ________________________________________________________________________________
   - Docker
   - Linux
   - Virtualisation
-  - Github basics
+  - Github Basics
+  - Automation Basics
   - Documentation Basics
 
 ## 🌱 Im Currently Learning:
@@ -21,13 +22,17 @@ ________________________________________________________________________________
   - Automation
   - NodeJs
   - Data Structures
-  - Web Application Development
+  - Full Stack Web Application Development
   - Cloud
   - Github
   - CL/CI
+  - Ruby
 
-
-⚡
+## ⚡ In the Pipeline to study:
+  - C++
+  - C#
+  
+  
 ## Organizations:
   - [Phylogeny Explorer Project](https://github.com/phylogeny-explorer)
   - [Crispy-Waffles](https://github.com/organizations/Crispy-Waffles)
@@ -88,7 +93,7 @@ ________________________________________________________________________________
 ### Make remote access, managed DNS and SSL encryption easy with a Noip.com account, free and paid options
 [![Make remote access, managed DNS and SSL encryption easy with a Noip.com account, free and paid options](https://user-images.githubusercontent.com/72121107/117400939-e9f76780-af03-11eb-9965-7aebc496173c.png)](https://www.noip.com/sign-up?hostname=&domain=hopto.org&fpr=clickonrefresh&fp_sid=signup)
 
-### I use DigitalOcean for cloud services, check out their awesome platform.
+### I use DigitalOcean for some of my cloud services, check out their awesome platform.
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7b29999f8c6f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
