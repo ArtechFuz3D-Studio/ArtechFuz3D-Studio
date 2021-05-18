@@ -22,11 +22,12 @@ ________________________________________________________________________________
   - Automation
   - NodeJs
   - Data Structures
-  - Full Stack Web Application Development
+  - Full Stack Web Application Development (Flask)
   - Cloud
   - Github
   - CL/CI
   - Ruby
+  - Javasccript, html, Markdown
 
 ## ⚡ In the Pipeline to study:
   - C++
