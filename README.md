@@ -46,6 +46,8 @@ ________________________________________________________________________________
 
 
 ## My Projects:
+  - [Crispy Waffles](https://crispy-waffles.github.io/Crispy-Waffles)
+
   - [clickondoo-repo](https://github.com/clickonrefresh/clickonodoo)
   - [clickonodoo-pages](https://clickonrefresh.github.io/clickonodoo)
   
