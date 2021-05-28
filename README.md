@@ -14,20 +14,19 @@ ________________________________________________________________________________
   - Linux
   - Virtualisation
   - Github Basics
-  - Automation Basics
-  - Documentation Basics
+  - Automation
+  - Documentation
+  - Web Hosting
 
 ## 🌱 Im Currently Learning:
   - Python
   - Automation
-  - NodeJs
+  - NodeJs, Javascript, React, Three.js
   - Data Structures
-  - Full Stack Web Application Development (Flask)
+  - Full Stack Web Application Development
   - Cloud
   - Github
   - CL/CI
-  - Ruby
-  - Javasccript, html, Markdown
 
 ## ⚡ In the Pipeline to study:
   - C++
