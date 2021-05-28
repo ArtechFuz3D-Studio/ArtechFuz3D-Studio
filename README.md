@@ -40,6 +40,7 @@ ________________________________________________________________________________
   - [Clickon Tutorials](https://github.com/Clickon-Tutorials)
 
 ## Pages:
+  - [Crispy Waffles - Web Application Suite Automated](https://crispy-waffles.github.io/Crispy-Waffles)
   - [clickonrefresh.github.io](https://clickonrefresh.github.io/clickonrefresh)
   - [clickon-tutorials.gihub.io](https://clickon-tutorials.github.io/Clickon-Tutorials)
   - [Music Playlist](https://clickonrefresh.github.io/Music-Playlist)
