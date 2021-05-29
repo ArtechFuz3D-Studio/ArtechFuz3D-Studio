@@ -103,7 +103,7 @@ ________________________________________________________________________________
 
 
 
-<!-- {% seo %}
+<!-- {% seo %} -->
 
 [Create cool svg content for your Github readme](https://iconmonstr.com)
 
