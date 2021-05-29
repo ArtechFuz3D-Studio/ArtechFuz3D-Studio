@@ -108,7 +108,7 @@ ________________________________________________________________________________
 [Create cool svg content for your Github readme](https://iconmonstr.com)
 
 
-[I use Canva.com for some of my designs, Im no graphical designer so their tools really help add interesting digital graphics](https://www.canva.com/join/cyw-cmm-ftz)
+[I use Canva.com for some of my graphic designs, Im no graphical designer so their tools really help add interesting digital graphics to my web projects](https://www.canva.com/join/cyw-cmm-ftz)
 
 
 _____________________________________________________________________________________________________
