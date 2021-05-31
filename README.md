@@ -38,11 +38,14 @@ ________________________________________________________________________________
   - [Phylogeny Explorer Project](https://github.com/phylogeny-explorer)
   - [Crispy-Waffles](https://github.com/organizations/Crispy-Waffles)
   - [Clickon Tutorials](https://github.com/Clickon-Tutorials)
+  - [ClickonDev](https://github.com/clickondev)
+  - [ClickonGit](https://github.com/clickongit)
 
 ## Pages:
   - [Crispy Waffles - Web Application Suite Automated](https://crispy-waffles.github.io/Crispy-Waffles)
   - [clickonrefresh.github.io](https://clickonrefresh.github.io/clickonrefresh)
-  - [clickon-tutorials.gihub.io](https://clickon-tutorials.github.io/Clickon-Tutorials)
+  - [Clickon Tutorials](https://clickon-tutorials.github.io/Clickon-Tutorials)
+  - [My Gitbook](https://app.gitbook.com/@clickonrefresh/spaces)
   - [Music Playlist](https://clickonrefresh.github.io/Music-Playlist)
 
 
