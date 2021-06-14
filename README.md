@@ -9,6 +9,7 @@
 
 [The 3D journey begins!](https://clickonrefresh.github.io/threejs-course-practise-2/)
 
+[Join my Discord Server for Odoo Community Edition](https://discord.gg/kaVT7m9V4p)
 
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
