@@ -34,6 +34,7 @@ ________________________________________________________________________________
   - CL/CI
   - Vagrant
   - Ansible
+  - Unreal Engine
 
 ## ⚡ In the Pipeline to study:
   - C++
