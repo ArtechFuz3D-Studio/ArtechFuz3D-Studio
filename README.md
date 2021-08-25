@@ -9,6 +9,8 @@
 
 [The 3D journey begins!](https://clickonrefresh.github.io/threejs-course-practise-2/)
 
+[Clickonrefresh 3D](https://clickonrefresh.github.io)
+
 [Join my Discord Server for Odoo Community Edition](https://discord.gg/kaVT7m9V4p)
 
 [Monty Python Shenanigans - Learning some html](https://clickonrefresh.github.io/clickonrefresh/scaenaiv.html)
@@ -69,13 +71,9 @@ ________________________________________________________________________________
   - [clickondeluxe-pages](https://clickonrefresh.github.io/clickondeluxe)
 
 
-## My Docker Repositories
-  - [countdocula](https://hub.docker.com/u/countdocula)
-  - [click0nrefresh](https://hub.docker.com/u/click0nrefresh)
 
 
-## Vagrant Cloud
-  - [My Vagrant Boxes](https://app.vagrantup.com/clickonrefresh)
+
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
