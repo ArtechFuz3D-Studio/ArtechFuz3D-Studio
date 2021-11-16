@@ -97,30 +97,6 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________
 
-![GitHub followers](https://img.shields.io/github/followers/clickonrefresh?style=social)
-
-[Twitter](https://twitter.com/clickonrefresh)
-
-![Twitter Followers](https://img.shields.io/twitter/follow/clickonrefresh?style=social)
-
-_____________________________________________________________________________________________________
-_____________________________________________________________________________________________________
-
-### Make remote access, managed DNS and SSL encryption easy with a Noip.com account, free and paid options
-[![Make remote access, managed DNS and SSL encryption easy with a Noip.com account, free and paid options](https://user-images.githubusercontent.com/72121107/117400939-e9f76780-af03-11eb-9965-7aebc496173c.png)](https://www.noip.com/sign-up?hostname=&domain=hopto.org&fpr=clickonrefresh&fp_sid=signup)
-
-### I use DigitalOcean for some of my cloud services, check out their awesome platform.
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7b29999f8c6f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-
-
-
-<!-- {% seo %} -->
-
-[Create cool svg content for your Github readme](https://iconmonstr.com)
-
-
-[I use Canva.com for some of my graphic designs, Im no graphical designer so their tools really help add interesting digital graphics to my web projects](https://www.canva.com/join/cyw-cmm-ftz)
 
 
 _____________________________________________________________________________________________________
