@@ -9,76 +9,44 @@
 [Linkedin Profile](https://linkedin.com/in/clickonrefresh)<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 8c0 .557-.447 1.008-1 1.008s-1-.45-1-1.008c0-.557.447-1.008 1-1.008s1 .452 1 1.008zm0 2h-2v6h2v-6zm3 0h-2v6h2v-2.861c0-1.722 2.002-1.881 2.002 0v2.861h1.998v-3.359c0-3.284-3.128-3.164-4-1.548v-1.093z"/></svg>
 
 
-[![trophy](https://not-normal.vercel.app)](https://github.com/clickonrefresh/not-normal)
-
 [Portfolio](https://clickonrefresh-dashboard.netlify.app)
 
 [Join my Discord Server for Odoo Community Edition](https://discord.gg/kaVT7m9V4p)
 
-[CLickonOdoo](https://github.com/clickonrefresh/clickonodoo)
+[ClickonOdoo](https://github.com/clickonrefresh/clickonodoo)
 
-https://github.com/gitforkedio
+[Fork It](https://github.com/gitforkedio)
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
 ## 😄 Ask me about:
   - Custom Odoo Deployments
-  - Docker
   - Linux
   - Virtualisation
   - Github Basics
-  - Automation
   - Documentation
   - Web Development & Hosting
   - 3D Web
 
 ## 🌱 Im Currently Learning:
-  - Python
-  - Automation
   - NodeJs, Javascript, React, Three.js
-  - Data Structures
   - Full Stack Web Application Development
   - Cloud
   - Github
-  - CL/CI
-  - Vagrant
-  - Ansible
   - Unreal Engine
 
-## ⚡ In the Pipeline to study:
-  - C++
-  - C#
-  
-  
-## Organizations:
-  - [Phylogeny Explorer Project](https://github.com/phylogeny-explorer)
-  - [Crispy-Waffles](https://github.com/organizations/Crispy-Waffles)
-  - [Clickon Tutorials](https://github.com/Clickon-Tutorials)
-  - [ClickonDev](https://github.com/clickondev)
-  - [ClickonGit](https://github.com/clickongit)
 
-## Pages:
-  - [Crispy Waffles - Web Application Suite Automated](https://crispy-waffles.github.io/Crispy-Waffles)
-  - [clickonrefresh.github.io](https://clickonrefresh.github.io/clickonrefresh)
-  - [Clickon Tutorials](https://clickon-tutorials.github.io/Clickon-Tutorials)
+  
+  
+
+  - [Phylogeny Explorer Project](https://github.com/phylogeny-explorer)
+  - [Gitforkedio](https://github.com/gitforkedio)
   - [My Gitbook](https://app.gitbook.com/@clickonrefresh/spaces)
   - [Music Playlist](https://clickonrefresh.github.io/Music-Playlist)
 
 
-## My Projects:
-  - [Crispy Waffles](https://crispy-waffles.github.io/Crispy-Waffles)
-
-  - [clickondoo-repo](https://github.com/clickonrefresh/clickonodoo)
-  - [clickonodoo-pages](https://clickonrefresh.github.io/clickonodoo)
-  
-  - [clickondeluxe-repo](https://github.com/clickonrefresh/clickondeluxe)
-  - [clickondeluxe-pages](https://clickonrefresh.github.io/clickondeluxe)
 
 
 
-
-
-
-<!-- TODO: Make technologies links takes you to repositories -->
 
 
 ## 🔧 Technologies & Tools
