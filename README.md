@@ -1,15 +1,11 @@
-<!--
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
-<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
--->
  
 <h1 align="center"><em>“The miracle is this - the more we share, the more we have.”</em></h1>
-<img align="center" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
+<br/>
 
 <h2 align="center">Nextjs & Javascript</h2>
 
-<p>Ipsum Lorem</p>
+<p>Fusce mollis in diam eget placerat. Donec egestas tellus metus, congue congue ipsum elementum eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam bibendum lectus vel nulla laoreet feugiat. Duis sit amet finibus massa. Cras consectetur nibh sit amet purus sagittis efficitur. Donec ullamcorper metus nisl, sit amet ultrices felis vestibulum eget. Nam at pharetra magna, quis tristique nisl. Curabitur quis sapien vestibulum dolor ornare hendrerit. Donec vel tempus justo. Nam semper diam quis lorem lacinia porttitor. Quisque placerat fringilla eros. Sed aliquet molestie libero at molestie. In ex nulla, vulputate in tristique eget, luctus quis ipsum. Mauris faucibus vestibulum mauris ac luctus. </p>
 <br/>
 
 <h2 align="center">3D</h2>
@@ -18,11 +14,11 @@
 
 <h2 align=center>Blender</h2>
 
-### Animations
+<h3 align=center>Animations</h3>
 
-<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
+<img alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
 
-### Modelling
+<h3 align=center>Modelling<h3>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" />
 
