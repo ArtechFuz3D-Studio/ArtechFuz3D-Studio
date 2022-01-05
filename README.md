@@ -1,24 +1,23 @@
-# Don't Panic !
-
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 
- 
- 
- 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
 
  
-<p align='center'>
-<h1>Projects</h1>
+<br/>
+ 
+<h1 align="center"><em>“The miracle is this - the more we share, the more we have.”</em></h1>
 
-<h2>Nextjs & Javascript</h2>
+<h2 align="center">Nextjs & Javascript</h2>
 
-<h2>3D</h2>
+<p>Ipsum Lorem</p>
+<br/>
+
+<h2 align="center">3D</h2>
 
 <br />
 
-## Blender
+<h2 align=center>Blender</h2>
 
 ### Animations
 
