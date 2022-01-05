@@ -19,15 +19,12 @@
 -->
 
  
-<h2 align="center">Animations</h2>     
+<h2>Animations</h2>     
 
-<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif" />
-
-
-<br />
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif" />
 
 
 <h2>Modelling</h2>
 
-<img align="left" height="270px" width="450px" alt="GIF1" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif" />
+<img height="270px" width="450px" alt="GIF1" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif" />
 
