@@ -1,4 +1,8 @@
 # Undergoing Maintenance
+
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
 <!--
 ![Copy of clickonrefresh(8)](https://user-images.githubusercontent.com/72121107/114459748-3a1f2a80-9be1-11eb-95ec-b0b3838ccff4.png)
 
