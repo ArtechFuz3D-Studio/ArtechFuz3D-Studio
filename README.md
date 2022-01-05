@@ -10,10 +10,10 @@
 <br/>
 
 <h1 align="center">3D</h1>
-<h2 align='center'>Blender</h2>
-
-<h3 align="center">Animations</h3>        
+<h2 align="center">Blender</h2>
+<br>
+<h2 align="center">Animations</h2>        
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
-
-<h3 align="center">Modelling</h3>
+<br>
+<h2 align="center">Modelling</h2>
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
