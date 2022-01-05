@@ -1,3 +1,4 @@
+<!--
 <div>
 <h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
@@ -15,7 +16,7 @@
 <h1 align="center">Blender</h1>
 
 <br />
-
+-->
 
  
 <h2 align="center">Animations</h2>     
