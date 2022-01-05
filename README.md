@@ -14,12 +14,19 @@
 <h1 align="center">Blender</h1>
 
 <br>
+
+
 <p>
-<h1 align="center">Animations</h1>        
-<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
+ 
+<h1 align="center">Animations</h1>     
+
+<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif" />
 </p>
+
 <br>
+
 <p>
 <h1 align="center">Modelling</h1>
-<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
+
+<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?" />
 </p>
