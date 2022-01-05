@@ -14,18 +14,19 @@
 <br />
 
 <h2 align='center'>Blender</h2>
-<br />
+<section>
 
 <h3 align='center'>Animations</h3>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
+</section>
 
 <br />
-
+<section>
 <h3 align='center'>Modelling<h3>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" />
-
+ </section>
  
 <br />
 
