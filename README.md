@@ -1,6 +1,6 @@
 
  
-<h1 align="center"><em>“The miracle is this - the more we share, the more we have.”</em></h1>
+<h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
 
 <h2 align="center">Nextjs & Javascript</h2>
@@ -16,23 +16,20 @@
 <h2 align='center'>Blender</h2>
 
 
-
+<div>
 <h3 align='center'>Animations</h3>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
-
-</br>
-<br />
-</br>
-<br />
-
+</div>
  
+<div>
 <h3 align='center'>Modelling<h3>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" />
- 
- 
-<br />
+</div>
+
+
+
  
 <!--
 <h2 align='center'>Threejs<h2>
