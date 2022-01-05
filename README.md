@@ -9,19 +9,28 @@
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
 
  
+<p align='center'>
+<h1>Projects</h1>
 
-# Projects
+<h2>Nextjs & Javascript</h2>
 
-## 3D
+<h2>3D</h2>
+
 <br />
 
 ## Blender
+
 ### Animations
+
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
+
 ### Modelling
+
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" />
 
+<br />
 ## Threejs
+
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/c3d.gif?raw=true" />
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/notnormal.gif?raw=true" />
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/hauntedmurex.gif?raw=true" />
@@ -44,7 +53,7 @@
 ## e-Commerce & Portfolio websites
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cportfolio.gif?raw=true" />
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraichxyz.gif?raw=true" />
-
+</p>
 
 <!--
 
