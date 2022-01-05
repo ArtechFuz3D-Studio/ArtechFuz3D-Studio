@@ -9,11 +9,12 @@
 
 <br/>
 -->
+<div>
 <h1 align="center">3D</h1>
 
 
 <h2 align='center'>Blender</h2>
-
+</div>
 
 <div>
 <p align="center">
