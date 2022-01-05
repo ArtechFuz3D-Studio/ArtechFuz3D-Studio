@@ -15,14 +15,15 @@
 
 <h2 align='center'>Blender</h2>
 
-
-<h3 align='center'>Animations</h3>
-
+<p align="center">
+<h3>Animations</h3>
+          </p>
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
 
  
-
-<h4 align='center'>Modelling<h4>
+<p align="center">
+<h3 align='center'>Modelling<h3>
+ </p>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" />
 
