@@ -1,6 +1,6 @@
 
  
-<header align="center"><em>“The miracle is this - the more we share, the more we have.”</em></header>
+<h1 align="center"><em>“The miracle is this - the more we share, the more we have.”</em></h1>
 <br/>
 
 <h2 align="center">Nextjs & Javascript</h2>
