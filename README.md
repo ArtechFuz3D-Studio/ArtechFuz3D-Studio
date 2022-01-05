@@ -15,13 +15,16 @@
 ---------------------------
 ## Threejs
 
-<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/c3d.gif?raw=true" />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/notnormal.gif?raw=true" />
-<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/hauntedmurex.gif?raw=true" />
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/c3d.gif?raw=true" />
+
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/notnormal.gif?raw=true" />
+
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/hauntedmurex.gif?raw=true" />
+<br />
 
 ### Logo Design
-<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/phylologo.gif?raw=true" />
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/phylologo.gif?raw=true" />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraich.gif?raw=true" />
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraich.gif?raw=true" />
 
 ----------------------------
