@@ -43,6 +43,7 @@
 
 ## e-Commerce & Portfolio websites
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cportfolio.gif?raw=true" />
+<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraichxyz.gif?raw=true" />
 
 
 <!--
