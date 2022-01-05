@@ -3,7 +3,17 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
+ 
+ 
+ 
+<img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
+<p align="center">
+ 
+ 
 <!--
+
+
+
 ![Copy of clickonrefresh(8)](https://user-images.githubusercontent.com/72121107/114459748-3a1f2a80-9be1-11eb-95ec-b0b3838ccff4.png)
 
 ## Hi there <img src="https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bluesteel.gif" width="48px" alt="hi">
