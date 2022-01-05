@@ -13,28 +13,30 @@
 
 <br />
 
-<h2 align=center>Blender</h2>
+<h2 align='center'>Blender</h2>
 <br />
 
-<h3 align=center>Animations</h3>
+<h3 align='center'>Animations</h3>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
+
 <br />
 
-<h3 align=center>Modelling<h3>
+<h3 align='center'>Modelling<h3>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" />
 
  
 <br />
-<h2 align=center>Threejs<h2>
+
+<h2 align='center'>Threejs<h2>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/c3d.gif?raw=true" />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/notnormal.gif?raw=true" />
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/hauntedmurex.gif?raw=true" />
 
 
-<h2 align=center>Logo Design<h2>
+<h2 align='center'>Logo Design<h2>
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/phylologo.gif?raw=true" />
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraich.gif?raw=true" />
