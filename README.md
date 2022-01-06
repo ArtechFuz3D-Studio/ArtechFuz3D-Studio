@@ -193,6 +193,7 @@ more coming soon
 
 <h3 align="center"><a href="https://github.com/phylogeny-explorer" img src="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
 </a>
+
 A navigable, online encyclopedia, of the entire evolutionary tree of life
 </h3>
 
