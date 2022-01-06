@@ -1,13 +1,12 @@
 <h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
 
+<h1 align="center">Hi! Im Neill, aka ...</h1>
+
+<br/>
 <p align="center">
 
-<h1 align="center">Hi! Im Neill, aka ...
-
 <img align="center" height="270px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
-</h1>
-
 
 </p>
 
