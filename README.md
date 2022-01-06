@@ -1,5 +1,6 @@
 <h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
+<img height="270px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
 
 
 <h2 align="center">3D</h3>
@@ -7,26 +8,26 @@
 ---------
 <h3 align="center">Blender</h3>
  
-<h4 align="center">Animations     
+<h4 align="center">Animations</h4>  
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/3FKSlzcOv3.gif?raw=true" />
-</h4>
 
 
-<h4 align="center">Modelling
+
+<h4 align="center">Modelling</h4>
 <img height="270px" width="450px" alt="GIF1" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" />
-</h4>
+
 
 <br />
 
 ---------------------------
-<h3 align="center">Threejs
+<h3 align="center">Threejs</h3>
 
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/c3d.gif?raw=true" />
 
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/notnormal.gif?raw=true" />
 
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/hauntedmurex.gif?raw=true" />
-</h3>
+
 <br />
 
 <h3 align="center">3D Logo's</h3>
@@ -37,12 +38,12 @@
 
 ----------------------------
 
-<h3 align="center">React Three Fiber
+<h3 align="left">React Three Fiber</h3>
 
-<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/r3f.gif?raw=true" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/r3f.gif?raw=true" />
 
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/dinophylo.gif?raw=true" />
-</h3>
+
 
 <br />
 
@@ -54,10 +55,10 @@
 
 <h2 align="center">Portfolio & E-commerce</h2>
 
-<h3 align="center">Portfolio website built with Nextjs
+<h3 align="center">Portfolio website built with Nextjs</h3>
 
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cportfolio.gif?raw=true" />
-</h3>
+
 
 ---------------------
 
