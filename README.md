@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi! Im Neill, aka ...</h1>
 
-<br/>
+
 <p align="center">
 
 <img align="center" height="270px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
@@ -12,7 +12,9 @@
 
 *Don't Panic!*
 
-## 🛠️ My Favorite Tools
+<h2 align="center">
+🛠️ My Favorite Tools
+</h2>
 
 ### 👨‍💻 Programming Languages
 
