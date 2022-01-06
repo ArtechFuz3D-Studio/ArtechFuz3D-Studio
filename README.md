@@ -1,20 +1,26 @@
 <h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
 
-<h1 align="center">Hi! Im Neill, aka ...</h1>
+<h1 align="center">Hi! Im Neill, 
 
+<p align="center">
+
+<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white"></a>
+</p>
+aka ...
 
 <p align="center">
 
 <img align="center" height="300px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
-
+</h1>
 </p>
 
 <p align="center">
 <i>Don't Panic!</i>
-
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 </p>
+
+---------
+
 
 
 <h2 align="center">Volunteering</h2>
