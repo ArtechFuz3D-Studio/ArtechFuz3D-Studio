@@ -13,34 +13,9 @@ aka ...
 
 <img align="center" height="300px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
 </h1>
-</p>
-
 <p align="center">
 <i>Don't Panic!</i>
 </p>
-
----------
-
-
-
-<h2 align="center">Volunteering</h2>
-
-<h3 align="center"><a href="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
-</a>
-
-A navigable, online encyclopedia, of the entire evolutionary tree of life
-</a>
-</h3>
-<a href="https://github.com/phylogeny-explorer">Github</a>
-
------
-<h3 align="center"><a href="https://antimicrox.github.io/">AntiMicroX
-</a>
-
-A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
-</a>
-</h3>
-<a href="https://github.com/antimicrox">Github</a>
 
 -----------------------------------
 
@@ -153,12 +128,36 @@ A graphical program used to map keyboard buttons and mouse controls to a gamepad
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-<br/>
+-------
+-----
 <br/>
 <h1 align="center">
 Projects
 </h1>
-<br/>
+
+<h2 align="center">Volunteering</h2>
+
+<h3 align="center"><a href="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
+</a>
+
+A navigable, online encyclopedia, of the entire evolutionary tree of life
+</a>
+</h3>
+<a href="https://github.com/phylogeny-explorer">Github</a>
+
+-----
+<h3 align="center"><a href="https://antimicrox.github.io/">AntiMicroX
+</a>
+
+A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
+</a>
+</h3>
+<a href="https://github.com/antimicrox">Github</a>
+
+-------------------------------------
+-------------------------------------
+
+
 <h2 align="center">3D</h3>
 <br/>
 <h3 align="center">Blender</h3>
@@ -176,25 +175,30 @@ Projects
 ----------------------------
 <p>
 <h2 align="center">Threejs</h2>
-<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/c3d.gif?raw=true" />
-<img  align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/notnormal.gif?raw=true" />
-<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/hauntedmurex.gif?raw=true" />
+<a href="https://clickonrefresh.github.io">
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/c3d.gif?raw=true" /></a>
+<a href="https://not-normal.vercel.app">
+<img  align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/notnormal.gif?raw=true" /></a>
+<a href="https://haunted-murex.vercel.app">
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/hauntedmurex.gif?raw=true" /></a>
 </p>
 
 <br />
+<p>
 <h3 align="center">3D Logo's</h3>
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/phylologo.gif?raw=true" />
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraich.gif?raw=true" />
-
-
-----------------------------
-
+</p>
+--------
+<br />
 <h3 align="center">React Three Fiber</h3>
+<a href="https://pep-portal.netlify.app">
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/r3f.gif?raw=true" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/r3f.gif?raw=true" /></a>
 
-<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/dinophylo.gif?raw=true" />
+<a href="https://pep-portal.netlify.app">
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/dinophylo.gif?raw=true" /></a>
 
 
 <br />
@@ -204,18 +208,26 @@ Projects
 <h2 align="center">Portfolio & E-commerce</h2>
 
 <h4 >Portfolio website built with Nextjs</h4>
-<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cportfolio.gif?raw=true" />
+<a href="https://clickonrefresh-dashboard.netlify.app">
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cportfolio.gif?raw=true" /></a>
 
 <h4 >Portfolio E-commerce built with Odoo</h4>
-<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraichxyz.gif?raw=true" />
+<a href="https://cliqonrefraich.clickonrefresh.xyz">
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraichxyz.gif?raw=true" /></a>
+
+---
+
+<h2 align="center">Docs</h2>
+<h4>Clickonrefreshusaurus</h4>
+
+<a href="https://clickonrefreshusaurus.netlify.app">
+<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefreshusaurus.gif?raw=true" /></a>
 
 
 
 <h2 align="center">Unreal Engine</h2>
 more coming soon
 <h2 align="center">Nextjs & Javascript</h2>
-more coming soon
-<h2 align="center">Docs</h2>
 more coming soon
 
 -------------------
