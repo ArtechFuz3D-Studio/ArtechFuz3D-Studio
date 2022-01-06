@@ -154,12 +154,12 @@ Projects
 <h3 align="center">3D Logo's</h3>
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/phylologo.gif?raw=true" />
 
-<img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraich.gif?raw=true" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraich.gif?raw=true" />
 
 
 ----------------------------
 
-<h3 align="left">React Three Fiber</h3>
+<h3 align="center">React Three Fiber</h3>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/r3f.gif?raw=true" />
 
