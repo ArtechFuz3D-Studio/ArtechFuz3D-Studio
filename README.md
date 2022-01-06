@@ -201,7 +201,7 @@ more coming soon
 <h3 align="center"><a href="https://antimicrox.github.io/">AntiMicroX
 </a>
 
-<a href="https://github.com/antimicrox">A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
+<a href="https://github.com/antimicrox" color="white">A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
 </a>
 </h3>
 
