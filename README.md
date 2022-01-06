@@ -177,7 +177,6 @@ more coming soon
 <h2 align="center">Docs</h2>
 more coming soon
 <h2 align="center">Portfolio & E-commerce</h2>
-more coming soon
 
 <h4 >Portfolio website built with Nextjs</h4>
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cportfolio.gif?raw=true" />
@@ -188,16 +187,12 @@ more coming soon
 
 ---------------------
 
-<h2 align="center">My volunteer Projects</h2>
+<h2 align="center">Volunteering</h2>
 
 <h3 align="center"><a href="https://github.com/phylogeny-explorer" img src="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
 </a>
 
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+
 A navigable, online encyclopedia, of the entire evolutionary tree of life
 </h3>
-
-
-
-<!--
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
->
