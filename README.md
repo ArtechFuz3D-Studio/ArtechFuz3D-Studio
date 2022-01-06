@@ -2,9 +2,12 @@
 <br/>
 
 <p align="center">
+
+<h1 align="center">Hi! Im Neill, aka ...</h1>
+
 <img align="center" height="270px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
 
-<h1 align="center">Hi! Im Neill, aka Clickonrefresh</h1>
+
 </p>
 
 *Don't Panic!*
