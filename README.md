@@ -12,6 +12,8 @@
 
 <p align="center">
 <i>Don't Panic!</i>
+
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 </p>
 
 <br/>
@@ -194,4 +196,3 @@ more coming soon
 A navigable, online encyclopedia, of the entire evolutionary tree of life
 </h3>
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
