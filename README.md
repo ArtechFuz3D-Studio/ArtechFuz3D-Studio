@@ -22,7 +22,7 @@
 <h3 align="center">
 👨‍💻 Programming Languages
 </h3>
-<p>
+<p align="center">
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -37,7 +37,7 @@
 <h3 align="center">
 🧰 Frameworks & Libraries
 </h3>
-<p>
+<p align="center">
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Nuxtjs" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white"></a>
@@ -62,7 +62,7 @@
 <h3 align="center">
 🗄️ Databases and Cloud Hosting
 </h3>
-<p>    
+<p align="center">    
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-430098.svg?style=for-the-badge&logo=netlify&logoColor=white"></a>
@@ -78,7 +78,7 @@
 <h3 align="center">
 💻 Design Tools
 <h/3>
-<p>
+<p align="center">
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-3DDC84?style=for-the-badge&logo=canva&logoColor=white"></a>
     <a href="#"><img alt="Sketchfab" src="https://img.shields.io/badge/Sketchfab-008678.svg?style=for-the-badge&logo=sketchfab&logoColor=white"></a>
     <a href="#"><img alt="LMMS" src="https://img.shields.io/badge/-Music DAW's-0000CC?style=for-the-badge&logo=lmms&logoColor=white"></a>
@@ -92,7 +92,7 @@
 <h3 align="center">
 🛠️ IDE's & Other Tools
 </h3>
-<p>
+<p align="center">
     <a href="#"><img alt="Bookstack" src="https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white"></a>
     <a href="#"><img alt="Docusaurus" src="https://img.shields.io/badge/Docusaurus-%230288D1.svg?style=for-the-badge&logo=docusaurus&logoColor=white"></a>
     <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/CodeSandbox-0D101E.svg?style=for-the-badge&logo=codesandbox&logoColor=white"></a>
@@ -111,7 +111,7 @@
 <h3 align="center">
 💻 Operating Systems
 </h3>
-<p>
+<p align="center">
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=linux&logoColor=white"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
