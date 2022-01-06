@@ -170,16 +170,19 @@ Projects
 
 ----------------------------
 
+<h2 align="center">Unreal Engine</h2>
+more coming soon
 <h2 align="center">Nextjs & Javascript</h2>
-
+more coming soon
 <h2 align="center">Docs</h2>
-
+more coming soon
 <h2 align="center">Portfolio & E-commerce</h2>
+more coming soon
 
-<h4 align="center">Portfolio website built with Nextjs</h4>
+<h4 >Portfolio website built with Nextjs</h4>
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cportfolio.gif?raw=true" />
 
-<h4 align="center">Portfolio E-commerce built with Odoo</h4>
+<h4 >Portfolio E-commerce built with Odoo</h4>
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraichxyz.gif?raw=true" />
 
 
