@@ -196,6 +196,7 @@ more coming soon
 
 A navigable, online encyclopedia, of the entire evolutionary tree of life
 </a>
+
 <a href="https://github.com/phylogeny-explorer">Github</a>
 </h3>
 
@@ -203,6 +204,7 @@ A navigable, online encyclopedia, of the entire evolutionary tree of life
 </a>
 
 A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
+
 <a href="https://github.com/antimicrox">Github</a>
 </h3>
 
