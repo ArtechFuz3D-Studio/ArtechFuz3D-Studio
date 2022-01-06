@@ -194,15 +194,16 @@ more coming soon
 <h3 align="center"><a href="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
 </a>
 
-<a href="https://github.com/phylogeny-explorer">A navigable, online encyclopedia, of the entire evolutionary tree of life
+A navigable, online encyclopedia, of the entire evolutionary tree of life
 </a>
+<a href="https://github.com/phylogeny-explorer">Github</a>
 </h3>
 
 <h3 align="center"><a href="https://antimicrox.github.io/">AntiMicroX
 </a>
 
-<a href="https://github.com/antimicrox" color="white">A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
-</a>
+A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
+<a href="https://github.com/antimicrox">Github</a>
 </h3>
 
 ---------------------------------
