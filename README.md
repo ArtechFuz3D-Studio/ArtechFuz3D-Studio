@@ -1,12 +1,12 @@
 <h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
 
-<div justify-content="center">
+<p align="center">
 <img align="center" height="270px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
 
 # Hi! Im Neill, aka Clickonrefresh
 * always updating readme's
-</div>
+</p>
 
 <h2 align="center">3D</h3>
 
