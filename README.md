@@ -191,8 +191,7 @@ more coming soon
 
 <h3 align="center"><a href="https://github.com/phylogeny-explorer" img src="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
 </a>
-
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-
 A navigable, online encyclopedia, of the entire evolutionary tree of life
 </h3>
+
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
