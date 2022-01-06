@@ -16,7 +16,6 @@
 <h2 align="center">
 🛠️ My Favorite Tools
 </h2>
-
 <br/>
 <h3 align="center">
 👨‍💻 Programming Languages
@@ -58,23 +57,25 @@
     <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
-
+<h3 align="center">
+🗄️ Databases and Cloud Hosting
+</h3>
 <p>    
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-430098.svg?logo=netlify&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-010101.svg?logo=amazon&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-430098.svg?style=for-the-badge&logo=netlify&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-010101.svg?style=for-the-badge&logo=amazon&logoColor=white"></a>
     <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 
 </p>
 
-### 💻 Design Tools
-
+<h3 align="center">
+💻 Design Tools
+<h/3>
 <p>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-3DDC84?style=for-the-badge&logo=canva&logoColor=white"></a>
     <a href="#"><img alt="Sketchfab" src="https://img.shields.io/badge/Sketchfab-008678.svg?style=for-the-badge&logo=sketchfab&logoColor=white"></a>
@@ -86,12 +87,13 @@
 
 </p>
 
-### 🛠️ IDE's & Other Tools
-
+<h3 align="center">
+🛠️ IDE's & Other Tools
+</h3>
 <p>
     <a href="#"><img alt="Bookstack" src="https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white"></a>
     <a href="#"><img alt="Docusaurus" src="https://img.shields.io/badge/Docusaurus-%230288D1.svg?style=for-the-badge&logo=docusaurus&logoColor=white"></a>
-    <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/CodeSandbox-0D101E.svg?logo=codesandbox&logoColor=white"></a>
+    <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/CodeSandbox-0D101E.svg?style=for-the-badge&logo=codesandbox&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
@@ -104,8 +106,9 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 </p>
 
-### 💻 Operating Systems
-
+<h3 align="center">
+💻 Operating Systems
+</h3>
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=linux&logoColor=white"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
@@ -118,11 +121,15 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-# Projects
+<br/>
+<h1 align="center">
+Projects
+</h1>
 
+<br/>
 <h2 align="center">3D</h3>
 
----------
+<br/>
 <h3 align="center">Blender</h3>
  
 <h4 align="center">Animations</h4>  
