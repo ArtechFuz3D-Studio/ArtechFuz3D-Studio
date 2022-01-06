@@ -169,7 +169,8 @@ Projects
 
 
 <h4 align="center">Modelling</h4>
-<img height="270px" width="450px" alt="GIF1" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" a href="https://snekfamart.vercel.app/snek" />
+<a href="https://snekfamart.vercel.app/snek">
+<img height="270px" width="450px" alt="GIF1" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" /></a>
 
 
 ----------------------------
