@@ -29,11 +29,11 @@
 </h3>
 <br />
 
-<h3 align="center">Logo Design
+<h3 align="center">3D Logo's</h3>
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/phylologo.gif?raw=true" />
 
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraich.gif?raw=true" />
-</h3>
+
 
 ----------------------------
 
