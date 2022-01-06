@@ -12,12 +12,15 @@
 
 *Don't Panic!*
 
+<br/>
 <h2 align="center">
 🛠️ My Favorite Tools
 </h2>
 
-### 👨‍💻 Programming Languages
-
+<br/>
+<h3 align="center">
+👨‍💻 Programming Languages
+</h3>
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -30,17 +33,18 @@
     <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks & Libraries
-
+<h3 align="center">
+🧰 Frameworks & Libraries
+</h3>
 <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Nuxtjs" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white"></a>
-    <a href="#"><img alt="Threejs" src="https://img.shields.io/badge/Three.js-success.svg?logo=three.js&logoColor=white"></a>
-    <a href="#"><img alt="React Three Fiber" src="https://img.shields.io/badge/React Three Fiber-blueviolet.svg?logo=three.js&logoColor=black"></a>
+    <a href="#"><img alt="Threejs" src="https://img.shields.io/badge/Three.js-success.svg?style=for-the-badge&logo=three.js&logoColor=white"></a>
+    <a href="#"><img alt="React Three Fiber" src="https://img.shields.io/badge/React Three Fiber-blueviolet.svg?style=for-the-badge&logo=three.js&logoColor=black"></a>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?style=for-the-badge&logo=electron&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=for-the-badge&logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Chakra-UI" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"></a>
     <a href="#"><img alt="Greensock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"></a>
