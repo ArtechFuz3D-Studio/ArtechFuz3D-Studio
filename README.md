@@ -16,6 +16,28 @@
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 </p>
 
+
+<h2 align="center">Volunteering</h2>
+
+<h3 align="center"><a href="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
+</a>
+
+A navigable, online encyclopedia, of the entire evolutionary tree of life
+</a>
+</h3>
+<a href="https://github.com/phylogeny-explorer">Github</a>
+
+-----
+<h3 align="center"><a href="https://antimicrox.github.io/">AntiMicroX
+</a>
+
+A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
+</a>
+</h3>
+<a href="https://github.com/antimicrox">Github</a>
+
+-----------------------------------
+
 <br/>
 <h2 align="center">
 🛠️ My Favorite Tools
@@ -141,7 +163,7 @@ Projects
 
 
 <h4 align="center">Modelling</h4>
-<img height="270px" width="450px" alt="GIF1" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" />
+<img height="270px" width="450px" alt="GIF1" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/snek.gif?raw=true" /><a href="https://snekfamart.vercel.app/snek">
 
 
 ----------------------------
@@ -172,12 +194,6 @@ Projects
 
 ----------------------------
 
-<h2 align="center">Unreal Engine</h2>
-more coming soon
-<h2 align="center">Nextjs & Javascript</h2>
-more coming soon
-<h2 align="center">Docs</h2>
-more coming soon
 <h2 align="center">Portfolio & E-commerce</h2>
 
 <h4 >Portfolio website built with Nextjs</h4>
@@ -187,27 +203,14 @@ more coming soon
 <img height="270px" width="450px" alt="GIF" src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/cliqonrefraichxyz.gif?raw=true" />
 
 
----------------------
 
-<h2 align="center">Volunteering</h2>
+<h2 align="center">Unreal Engine</h2>
+more coming soon
+<h2 align="center">Nextjs & Javascript</h2>
+more coming soon
+<h2 align="center">Docs</h2>
+more coming soon
 
-<h3 align="center"><a href="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
-</a>
-
-A navigable, online encyclopedia, of the entire evolutionary tree of life
-</a>
-</h3>
-<a href="https://github.com/phylogeny-explorer">Github</a>
-
------
-<h3 align="center"><a href="https://antimicrox.github.io/">AntiMicroX
-</a>
-
-A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
-</a>
-</h3>
-<a href="https://github.com/antimicrox">Github</a>
-
-
----------------------------------
+-------------------
 Thanks for visiting
+-------------------
