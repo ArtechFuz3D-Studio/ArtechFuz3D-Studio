@@ -6,11 +6,13 @@
 
 <p align="center">
 
-<img align="center" height="270px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
+<img align="center" height="280px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
 
 </p>
 
-*Don't Panic!*
+<p align="center">
+<i>Don't Panic!</i>
+</p>
 
 <br/>
 <h2 align="center">
