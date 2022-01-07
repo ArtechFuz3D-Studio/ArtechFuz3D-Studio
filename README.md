@@ -140,20 +140,7 @@ aka ...
     <a href="#"><img alt="UbuntuServer" src="https://img.shields.io/badge/Ubuntu%20Server-ff0000?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
-<h3 align="center">
-💻 Build Statuses
-</h3>
-<p align="center">
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=linux&logoColor=white"></a>
-    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
-    <a href="#"><img alt="Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
-    <a href="#"><img alt="Pop OS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"></a>
-    <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
-    <a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"></a>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="UbuntuServer" src="https://img.shields.io/badge/Ubuntu%20Server-ff0000?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-</p>
+
 
 -------
 -----
