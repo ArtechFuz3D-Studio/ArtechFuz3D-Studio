@@ -19,6 +19,19 @@ aka ...
 
 -----------------------------------
 
+
+
+<br/>
+<h2 align="center">
+🛠️ Social & Other Profiles
+</h2>
+<br/>
+<p align="center">
+    <a href="https://www.linkedin.com/in/clickonrefresh"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://giltab.com/clickonrefresh"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+    <a href="https://twitter.com/clickonrefresh"><img alt="Twitter" src="https://img.shields.io/badge/clickonrefresh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/clickonrefresh-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+
 <br/>
 <h2 align="center">
 🛠️ My Favorite Tools
@@ -64,7 +77,7 @@ aka ...
 </p>
 
 <h3 align="center">
-🗄️ Databases and Cloud Hosting
+🗄️ Cloud Hosting & Databases
 </h3>
 <p align="center">    
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -124,7 +137,21 @@ aka ...
     <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
     <a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="UbuntuServer" src="https://img.shields.io/badge/Ubuntu-ff0000?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="UbuntuServer" src="https://img.shields.io/badge/Ubuntu%20Server-ff0000?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+</p>
+<h3 align="center">
+💻 Build Statuses
+</h3>
+<p align="center">
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?style=for-the-badge&logo=linux&logoColor=white"></a>
+    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a href="#"><img alt="Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
+    <a href="#"><img alt="Pop OS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"></a>
+    <a href="#"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
+    <a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="UbuntuServer" src="https://img.shields.io/badge/Ubuntu%20Server-ff0000?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
