@@ -28,7 +28,7 @@ aka ...
 <br/>
 <p align="center">
     <a href="https://www.linkedin.com/in/clickonrefresh"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://giltab.com/clickonrefresh"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+    <a href="https://gitlab.com/clickonrefresh"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
     <a href="https://twitter.com/clickonrefresh"><img alt="Twitter" src="https://img.shields.io/badge/clickonrefresh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/clickonrefresh-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
