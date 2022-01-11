@@ -1,6 +1,8 @@
 <h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
 
+<iframe title='pep-3d-logo' src='https://my.spline.design/pep3dlogo-1f91c2841a946a4edd7fdd6165d7f767/' frameborder='0' width='100%' height='100%'></iframe>
+
 <h1 align="center">Hi! Im Neill, 
 
 <p align="center">
