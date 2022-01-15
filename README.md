@@ -9,11 +9,11 @@
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white"></a>
 </p>
 aka ...
-
+</h1>
 <p align="center">
 
 <img align="center" height="300px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
-</h1>
+
 <p align="center">
 <i>Don't Panic!</i>
 </p>
