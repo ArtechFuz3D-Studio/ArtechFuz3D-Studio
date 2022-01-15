@@ -1,6 +1,6 @@
-<h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
+<!--<h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
-
+-->
 
 <h1 align="center">Hi! Im Neill, 
 
@@ -19,7 +19,7 @@ aka ...
 </p>
 -->
 
-
+------------------------------
 
 
 <br/>
@@ -97,6 +97,7 @@ aka ...
 💻 Design Tools
 <h/3>
 <p align="center">
+    <a href="#"><img alt="Spline.Design" src="https://img.shields.io/badge/Spline.Design-3DDC84?style=for-the-badge&logo=splinedesign&logoColor=white"></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-3DDC84?style=for-the-badge&logo=canva&logoColor=white"></a>
     <a href="#"><img alt="Sketchfab" src="https://img.shields.io/badge/Sketchfab-008678.svg?style=for-the-badge&logo=sketchfab&logoColor=white"></a>
     <a href="#"><img alt="LMMS" src="https://img.shields.io/badge/-Music DAW's-0000CC?style=for-the-badge&logo=lmms&logoColor=white"></a>
