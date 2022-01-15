@@ -1,6 +1,6 @@
 <h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
-<img align="center" height="350px" width="500px" frameborder='1' alt="clickonrefresh-logo" src='https://my.spline.design/clickonrefreshlogo-17d27ba558ec93e0e1d90ab794ce3d6b/'  
+<img align="center" height="350px" width="500px" frameborder='1' alt="clickonrefresh-logo" src='https://my.spline.design/clickonrefreshlogo-17d27ba558ec93e0e1d90ab794ce3d6b/' />
 
 <h1 align="center">Hi! Im Neill, 
 
