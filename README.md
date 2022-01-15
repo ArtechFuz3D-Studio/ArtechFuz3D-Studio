@@ -6,6 +6,7 @@
 
 <p align="center">
 <img align="center" height="350px" width="500px" frameborder='1' alt="clickonrefresh-logo" src='https://my.spline.design/clickonrefreshlogo-17d27ba558ec93e0e1d90ab794ce3d6b/' />
+    <br />
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white"></a>
 </p>
 aka ...
