@@ -108,10 +108,10 @@ aka ...
 </p>
 
 <h3 align="center">
-🛠️ IDE's & Other Tools
+🛠️ Others
 </h3>
 <p align="center">
-    <a href="#"><img alt="Bookstack" src="https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white"></a>
+    <a href="#"><img alt="Gitbook" src="https://img.shields.io/badge/Gitbook-%230288D1.svg?style=for-the-badge&logo=gitbook&logoColor=white"></a>
     <a href="#"><img alt="Docusaurus" src="https://img.shields.io/badge/Docusaurus-%230288D1.svg?style=for-the-badge&logo=docusaurus&logoColor=white"></a>
     <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/CodeSandbox-0D101E.svg?style=for-the-badge&logo=codesandbox&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
