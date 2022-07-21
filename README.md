@@ -2,26 +2,24 @@
 <!--<h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
 -->
-<p align="right">--- UPDATES IN PROGRESS --- </p>
-<h1 align="center">Hi! Im Neill, 
+<!-- <p align="right">--- UPDATES IN PROGRESS --- </p> -->
+<!-- <h1 align="center">Hi! Im Neill,  -->
 
- <p align="center">
+<!--  <p align="center"> -->
 
 <!-- <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white"></a> -->
-</p>
-aka ...
-</h1>
-<p align="center">
+<!-- </p> -->
+<!-- aka ... -->
+<!-- </h1> -->
+<!-- <p align="center"> -->
 
-<img align="center" height="300px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" />
+<!-- <img align="center" height="300px" width="450px" alt=SVG src="https://github.com/clickonrefresh/clickonrefresh/blob/main/.assets/clickonrefresh.svg?raw=true" /> -->
 
 <!--<p align="center">
 <i>Don't Panic!</i>
 </p>
 -->
 
-------------------------------
--->
 
 <br/>
 <h2 align="center">
