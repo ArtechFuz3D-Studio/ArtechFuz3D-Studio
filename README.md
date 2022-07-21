@@ -1,3 +1,4 @@
+<!--
 <!--<h1 align="center"><em>“The miracle is this - the more we share, the more we have.” Leonard Nemoy</em></h1>
 <br/>
 -->
@@ -20,7 +21,7 @@ aka ...
 -->
 
 ------------------------------
-
+-->
 
 <br/>
 <h2 align="center">
