@@ -1,11 +1,3 @@
-
-
-
-<br/>
-<h2 align="center">
-🛠️ Social & Other Profiles
-</h2>
-<br/>
 <p align="center">
     <a href="https://www.linkedin.com/in/studiohuit"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://gitlab.com/clickonrefresh"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
@@ -23,10 +15,9 @@ A navigable, online encyclopedia, of the entire evolutionary tree of life
 </h3>
 <a href="https://github.com/phylogeny-explorer">Github</a>
 
--------------------------------------
--------------------------------------
 
 
 -------------------
 Thanks for visiting
 -------------------
+                                               
