@@ -14,9 +14,14 @@ A navigable, online encyclopedia, of the entire evolutionary tree of life
 
 
 
-
+    
+    
+    
+    
+    
 <h3 align="center">
--------------------
+
+    
 Thanks for visiting
--------------------
+
     </h3>                                               
