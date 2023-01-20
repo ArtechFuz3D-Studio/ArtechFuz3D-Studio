@@ -7,13 +7,12 @@
 
 <h2 align="center">Volunteering</h2>
 
-<h3 align="center"><a href="https://phylogenyexplorerproject.com">Phylogeny Explorer Project
+<h3 align="center"><a href="https://github.com/phylogeny-explorer">Phylogeny Explorer Project
 </a>
 
 A navigable, online encyclopedia, of the entire evolutionary tree of life
-</a>
-</h3>
-<a href="https://github.com/phylogeny-explorer">Github</a>
+
+
 
 
 
