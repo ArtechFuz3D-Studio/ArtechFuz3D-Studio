@@ -15,8 +15,9 @@ I’m Neill—indie developer wielding JavaScript, Three.js, Rogue Engine, Unrea
 
 ---
 
-### Chaos Tempered
+### ArtechFuz3D
 
+<!--
 <p align="center">
     <pre>
       .-""""""""-.
@@ -29,9 +30,9 @@ I’m Neill—indie developer wielding JavaScript, Three.js, Rogue Engine, Unrea
       `-''-'
     </pre>
 </p>
-
+-->
 <p align="center">
-    Want some motion? See the <a href="https://artechfuz3d.github.io/ubiquitous-parakeet/">Chaos Tempered particle effect</a> in action!
+    <img src="logo3.png" alt="ArtechFuz3D" width="300">
 </p>
 
 ---
