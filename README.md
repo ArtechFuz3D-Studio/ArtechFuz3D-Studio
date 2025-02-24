@@ -32,7 +32,7 @@ I’m Neill—indie developer wielding JavaScript, Three.js, Rogue Engine, Unrea
 </p>
 -->
 <p align="center">
-    <img src="logo3.png" alt="ArtechFuz3D" width="300">
+    <img src="Alogo3.png" alt="ArtechFuz3D" width="300">
 </p>
 
 ---
