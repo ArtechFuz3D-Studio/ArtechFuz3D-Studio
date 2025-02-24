@@ -30,8 +30,9 @@ I’m Neill—indie developer wielding JavaScript, Three.js, Rogue Engine, Unrea
     </pre>
 </p>
 
-#### Feeling the Chaos?
-Want some motion? Check out the [live particle effect](https://artechfuz3d.github.io/ubiquitous-parakeet/) for this README! (Link coming soon—or add your own below.)
+```html
+<iframe src="https://artechfuz3d.github.io/ubiquitous-parakeet/" width="100%" height="300" frameborder="0"></iframe>
+```
 
 ---
 
