@@ -19,10 +19,19 @@ I’m Neill—indie developer wielding JavaScript, Three.js, Rogue Engine, Unrea
 
 <p align="center">
     <pre>
-    .·:*:·. Chaos—blackouts, pollution, injuries—my forge
-    .·:*:·. Code, 3D, audio—my steel
+      .-""""""""-.
+    .'          '.
+   /   ,    ,    \
+  : ,   |\/7   ,  :
+   `._   )'   _.'
+      |  .'  |
+      |  |   |
+      `-''-'
     </pre>
 </p>
+
+#### Feeling the Chaos?
+Want some motion? Check out the [live particle effect](https://artechfuz3d.github.io/ubiquitous-parakeet/) for this README! (Link coming soon—or add your own below.)
 
 ---
 
