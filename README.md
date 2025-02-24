@@ -30,9 +30,9 @@ I’m Neill—indie developer wielding JavaScript, Three.js, Rogue Engine, Unrea
     </pre>
 </p>
 
-
-<iframe src="https://artechfuz3d.github.io/ubiquitous-parakeet/" width="100%" height="300" frameborder="0"></iframe>
-
+<p align="center">
+    Want some motion? See the <a href="https://artechfuz3d.github.io/ubiquitous-parakeet/">Chaos Tempered particle effect</a> in action!
+</p>
 
 ---
 
