@@ -38,5 +38,5 @@ I’m Neill aka ArtechFuz3D — Indie developer wielding JavaScript, Three.js, R
 ---
 
 <p align="center">
-    <a href="https://portfolio.artechfuz3d.xyz">🌐 Portfolio</a> | <a href="https://yourusername.itch.io">🎮 itch.io</a>
+    <a href="https://portfolio.artechfuz3d.xyz">🌐 Portfolio</a> | <a href="https://artechfuz3d.itch.io">🎮 itch.io</a>
 </p>
